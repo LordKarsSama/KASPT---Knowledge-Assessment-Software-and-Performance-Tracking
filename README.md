@@ -4,7 +4,7 @@
 
 ## Download
 
-Download and run `KAST-1.0.0-exp.exe` from this release.
+Download and run `KASPT-1.0.0-exp.exe` from this release.
 
 This is an experimental Windows build. The installer may trigger a Windows security prompt because it is not currently code-signed. Only run a copy obtained from the official KASPT release page.
 
