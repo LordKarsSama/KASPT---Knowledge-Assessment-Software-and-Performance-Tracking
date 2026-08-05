@@ -4,7 +4,7 @@ Version 1.0.0 Experimental
 
 ## 1. Installation
 
-1. Download `KAST-1.0.0-exp.exe`.
+1. Download `KASPT-1.0.0-exp.exe`.
 2. Close any running copy of KASPT.
 3. Run the installer.
 4. Select a dedicated writable folder, such as `C:\Users\YourName\KASPT` or `E:\KASPT`.
