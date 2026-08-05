@@ -42,3 +42,7 @@ See [USER_GUIDE.md](USER_GUIDE.md) for installation, test-taking, analytics, bac
 Back up the `Profiles` folder before important upgrades. Bug reports should include the KASPT version, Windows version, display scaling percentage and steps required to reproduce the problem. Do not publish a real `performance.db` with a bug report unless you intend to disclose its contents.
 
 KASPT is distributed free of charge for use. Copyright is retained by its developer. All rights reserved.
+
+## Release verification
+
+At the time of packaging, KASPT passed all available tests and a Microsoft Defender scan. No known malware or critical problems were detected.
