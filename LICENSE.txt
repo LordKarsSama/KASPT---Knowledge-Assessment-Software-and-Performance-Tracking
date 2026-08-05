@@ -1,0 +1,75 @@
+KASPT FREEWARE LICENSE
+Version 1.0 — 2026
+
+Copyright (c) 2026 LordKarsSama. All rights reserved.
+
+KASPT means Knowledge Assessment Software with Performance Tracking. This
+license applies to the KASPT executable software, installer, documentation,
+sample data, images, and other files distributed with it (collectively, the
+"Software").
+
+1. Permission to use
+
+You may download, install, and use the Software free of charge for personal,
+educational, or internal organisational purposes.
+
+2. Restrictions
+
+Unless you have prior written permission from the copyright holder, you may
+not:
+
+  a. sell, rent, sublicense, or commercially redistribute the Software;
+  b. redistribute, mirror, or republish the Software or its installer;
+  c. modify, adapt, translate, reverse engineer, decompile, or disassemble the
+     Software, except where applicable law expressly permits it;
+  d. remove or alter copyright, branding, attribution, or proprietary notices;
+  e. present the Software, its name, or its branding as your own; or
+  f. use the KASPT name or logo to imply endorsement or affiliation.
+
+You may share a link to the official KASPT repository or official release page.
+
+3. Ownership
+
+The Software is licensed, not sold. This license grants permission to use the
+Software but does not transfer ownership or copyright. "Freeware" and "free of
+charge" do not mean that the Software is in the public domain or open source.
+All rights not expressly granted in this license are reserved by the copyright
+holder.
+
+4. User data
+
+You are responsible for backing up profiles, performance databases, question
+banks, answer keys, and other data used with the Software. Uploading such data
+to an online or AI service is your decision and may disclose its contents to
+that service.
+
+5. Experimental software and warranty disclaimer
+
+The Software is provided "AS IS" and "AS AVAILABLE", without warranties of any
+kind, whether express, implied, or statutory, including warranties of
+merchantability, fitness for a particular purpose, accuracy, reliability,
+availability, and non-infringement. Experimental releases may contain errors,
+lose data, or behave unexpectedly. Use the Software at your own risk.
+
+6. Limitation of liability
+
+To the maximum extent permitted by applicable law, the copyright holder shall
+not be liable for any direct, indirect, incidental, special, consequential, or
+other damages arising from the Software or its use, including loss of data,
+results, profits, or availability.
+
+7. Third-party components
+
+Third-party software, libraries, fonts, or other materials included with the
+Software remain subject to their respective licenses. This license does not
+replace or restrict rights granted by those third-party licenses.
+
+8. Termination
+
+Your permission under this license ends automatically if you violate its terms.
+Upon termination, you must stop using the Software and delete copies in your
+possession or control. Sections concerning ownership, warranty, liability, and
+third-party components survive termination.
+
+For permissions beyond this license, contact the copyright holder through the
+official KASPT GitHub repository.
